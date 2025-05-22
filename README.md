@@ -1,7 +1,6 @@
 # Tugas BDL ORM
 
-Nama : I Made Wisnu Pradnya Yoga
-NIM : 2301020010
+Nama : I Made Wisnu Pradnya Yoga | NIM : 2301020010
 
 Aplikasi Tugas Basis Data Lanjut (BDL) yang menggunakan Laravel Eloquent ORM untuk manajemen data.
 
